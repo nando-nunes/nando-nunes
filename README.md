@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ----
 <div align="center">
-  <img src="http://www.thenightowl.com/images/kc_covers.gif" alt="King Crimson" width="700" />
+  <img src="http://www.thenightowl.com/images/kc_covers.gif" alt="King Crimson" width="200" />
 </div>
 ----
