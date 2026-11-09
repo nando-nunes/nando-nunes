@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-----
+---
+<div align="left">
+  <img src="https://giffiles.alphacoders.com/915/91529.gif" alt="King Crimson" width="200" />
+</div>
+
+
 <div align="center">
   <img src="http://www.thenightowl.com/images/kc_covers.gif" alt="King Crimson" width="200" />
 </div>
-----
+---
