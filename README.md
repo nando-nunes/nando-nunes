@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+----
+<div align="center">
+  <img src="http://www.thenightowl.com/images/kc_covers.gif" alt="King Crimson" width="700" />
+</div>
+----
