@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 ---
 <div align="left">
-  <img src="https://giffiles.alphacoders.com/915/91529.gif" alt="King Crimson" width="200" />
-</div>
-
-
-<div align="center">
+  <img src="https://giffiles.alphacoders.com/915/91529.gif" alt="Black Sabbath" width="200" />
   <img src="http://www.thenightowl.com/images/kc_covers.gif" alt="King Crimson" width="200" />
 </div>
 ---
