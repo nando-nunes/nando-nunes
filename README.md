@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://giffiles.alphacoders.com/915/91529.gif" alt="Black Sabbath" width="200" />
   <img src="http://www.thenightowl.com/images/kc_covers.gif" alt="King Crimson" width="200" />
-  <img src="https://64.media.tumblr.com/d1707894c26f206d9986f532a184e762/tumblr_o46067LQXB1qf1qjho1_1280.gif" alt="The Beach Boys" width="200" />
   <img src="https://www.lovethispic.com/uploaded_images/96961-The-Strokes.gif?1" alt="The Strokes" width="300" />
+  <img src="https://64.media.tumblr.com/d1707894c26f206d9986f532a184e762/tumblr_o46067LQXB1qf1qjho1_1280.gif" alt="The Beach Boys" width="200" />
 </div>
 ---
